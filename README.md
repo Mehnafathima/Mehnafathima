@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehna Fathima P N</h1>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehnafathima" alt="mehnafathima" /></a> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
