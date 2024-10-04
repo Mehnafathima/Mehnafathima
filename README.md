@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehna Fathima P N</h1>
 
-- 🌱 rn learning **flutter**
+- 🌱 rn learning **flutter** & **iOS**
 
 - 📫 How to reach me **mehnfathima777@gmail.com**
 
